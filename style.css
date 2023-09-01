@@ -1,0 +1,40 @@
+
+:root {
+    --primary-very-dark-mageta:  hsl(300, 43%, 22%);
+    --neutral-
+
+}
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    padding: 2rem;
+}
+
+
+
+.rating {
+    margin-top: 1rem;
+    background:  hsl(300, 24%, 96%);
+    padding: 0.6rem;
+}
+
+.opinion {
+    background: var(--primary-very-dark-mageta);
+    color: #fff;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
+.opinion,
+.rating {
+    border-radius: 10px;
+}
+
+.opinion img {
+    border-radius: 50px;
+}
