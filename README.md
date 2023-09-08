@@ -1,5 +1,5 @@
 
-# Frontend Mentor - Newsletter-sign-up-with-success-Message
+# Frontend Mentor - social-proof-section-master
 ## Overview
 
 ### Screenshot
